@@ -1,12 +1,12 @@
 import Layout from "../components/template/Layout"
 
-export default function Home() {
+export default function Ajustes() {
   return (
     // <h1 className="bg-gradient-to-r from-green-400 to-blue-500">
     //   Hello world!
     // </h1>
 
-    <Layout titulo="Página inicial" subtitulo="Estamos construindo um template Admin">
+    <Layout titulo="Ajustes e configurações" subtitulo="Personalize sua interface">
       <h3>
         Conteudo!!
       </h3>
